@@ -19,10 +19,4 @@ Este proyecto automatiza pruebas funcionales del sitio [Swag Labs](https://www.s
 7. Confirmar que el badge del carrito se actualiza correctamente.
 8. Verificar que el producto añadido aparece en el carrito.
 
-## Instrucciones de instalación de dependencias
-1. Crear un entorno virtual (opcional pero recomendado):
-   ```bash
-   python -m venv venv
-   # Activar entorno
-   source venv/bin/activate  # Linux / Mac
-   venv\Scripts\activate     # Windows
+
